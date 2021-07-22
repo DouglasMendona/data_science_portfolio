@@ -1,2 +1,2 @@
 # data_science_portfolio
-Meu portfólio de Data Science
+Meu portfólio de Ciência de Dados
